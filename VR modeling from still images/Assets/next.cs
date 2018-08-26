@@ -18,5 +18,8 @@ public class next : MonoBehaviour {
     public void loadS() {
         SceneManager.LoadScene("P1");
     }
-
+    public void loadT()
+    {
+        SceneManager.LoadScene("Tour");
+    }
 }

@@ -298,6 +298,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Code\AndrewBox\Shader\particles\AndrewBox_TrailRenderer.shader" />
+    <None Include="Assets\Maple Tree Package\readme_MapleTrees.txt" />
     <None Include="Assets\VRTK\Scripts\Internal\Shaders\AdaptiveQualityDebugVisualization.shader" />
     <None Include="Assets\VRTK\Scripts\Internal\Shaders\TransparentFresnelBehind.shader" />
     <None Include="Assets\VRTK\Scripts\Internal\Shaders\UIOverlay.shader" />
